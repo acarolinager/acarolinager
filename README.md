@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 
-- 📚 Estudante de ADS - Fatec SO
+- 📚 Estudante de Analise e desenvolvimento de sistemas 
 - 🖥️ Atualmente estou aprendendo C# 
 - 🐱 Amante de gatos 
 
