@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 
 - 📚 Estudante de Analise e desenvolvimento de sistemas 
-- 🖥️ Atualmente estou aprendendo C# 
+- 🖥️ Atualmente estou aprendendo PHP
 - 🐱 Amante de gatos 
 
 <div>
