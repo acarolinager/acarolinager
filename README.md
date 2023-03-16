@@ -6,9 +6,7 @@
 Here are some ideas to get you started: -->
 
 
-- 📚 Estudante de Analise e desenvolvimento de sistemas 
-- 🖥️ Atualmente estou aprendendo PHP
-- 🐱 Amante de gatos 
+- 📚 Estudante de Ciência da computação
 
 <div>
   <a href="https://github.com/acarolinager">
